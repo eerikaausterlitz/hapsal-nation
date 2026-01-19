@@ -17,6 +17,7 @@ This site contains all canon information regarding:
 - [[nation/regions|Geographic Regions]]
 - [[history/timeline|History]]
 - [[defence/hsdf|Hapsal Self-Defence Forces]]
+- [[defence/gendarmerie|Hapsal State Gendarmerie]]
 - [[law/constitution|Constitution]]
 - [[law/laws|National Laws]]
 
