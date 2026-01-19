@@ -14,9 +14,11 @@ This site contains all canon information regarding:
 ## Navigation
 
 - [[nation/overview|Nation Overview]]
+- [[nation/regions|Geographic Regions]]
 - [[history/timeline|History]]
-- [[military/hmsdf|Military]]
-- [[law/rp-rules|Roleplay Rules]]
+- [[defence/hsdf|Hapsal Self-Defence Forces]]
+- [[law/constitution|Constitution]]
+- [[law/laws|National Laws]]
 
 ---
 
