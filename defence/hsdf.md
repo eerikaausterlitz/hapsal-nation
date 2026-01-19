@@ -2,9 +2,9 @@
 
 The **Hapsal Self-Defence Forces (HSDF)** are the principal defensive forces of the State of Hapsal.  
 They are organised into three main branches:  
-[Hapsal Ground Self-Defence Forces](defence/hgsd.md)
-[Hapsal Air Self-Defence Forces](defence/hasdf.md)
-[Hapsal Maritime Self-Defence Forces](defence/hmsdf.md)
+[Hapsal Ground Self-Defence Forces](hgsd.md)
+[Hapsal Air Self-Defence Forces](hasdf.md)
+[Hapsal Maritime Self-Defence Forces](hmsdf.md)
 
 Each branch has distinct responsibilities and units.
 
