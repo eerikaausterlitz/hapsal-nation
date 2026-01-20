@@ -1,5 +1,8 @@
 # The State of Hapsal
 
+<img width="1440" height="964" alt="State_of_Hapsal" src="https://github.com/user-attachments/assets/afe8ef96-2050-4399-b86c-fb9a4286ed4a" />
+
+
 Welcome to the official documentation of **Hapsal**.
 
 This site contains all canon information regarding:
