@@ -27,7 +27,24 @@ It is set in a mid-Cold War era (1960s–1970s) setting.
 
 ## Ranks
 
-### Officers (Generals)
+# Hapsal Self-Defence Forces – Rank Structure
+
+This shows the full civil–military hierarchy and rank system of the Hapsal Self-Defence Forces (HSDF).
+
+---
+
+## Civil & Defence Leadership
+
+| Position | Japanese Title |
+|----------|----------------|
+| Her Imperial Majesty, Empress of the Sakura | 桜皇陛下 (Ōka Heika) |
+| Prime Minister of the State of Hapsal | 内閣総理大臣 (Naikaku Sōri-Daijin) |
+| Minister of Defence | 防衛大臣 (Bōei-Daijin) |
+| Chief of the Defence Staff | 統合幕僚長 (Tōgō Bakuryō-chō) |
+
+---
+
+## Officers (Generals)
 
 | Rank | Japanese Title | Notes |
 |------|----------------|-------|
@@ -36,7 +53,9 @@ It is set in a mid-Cold War era (1960s–1970s) setting.
 | Major General | 桜将 (Ōshō) | Sakura General |
 | Brigadier General | 花将 (Kashō) | Flower General |
 
-### Officers (Senior Officers)
+---
+
+## Officers (Senior Officers)
 
 | Rank | Japanese Title | Notes |
 |------|----------------|-------|
@@ -44,14 +63,18 @@ It is set in a mid-Cold War era (1960s–1970s) setting.
 | Major | 花戦監 (Kasen-kan) | Flower Battle Overseer |
 | Captain | 花隊長 (Katai-chō) | Flower Unit Leader |
 
-### Officers (Junior Officers)
+---
+
+## Officers (Junior Officers)
 
 | Rank | Japanese Title | Notes |
 |------|----------------|-------|
 | First Lieutenant | 上花衛 (Jō-kaei) | Senior Flower Guard |
 | Lieutenant | 花衛 (Kaei) | Flower Guard |
 
-### Non-Commissioned Officers (NCOs)
+---
+
+## Non-Commissioned Officers (NCOs)
 
 | Rank | Japanese Title | Notes |
 |------|----------------|-------|
@@ -59,14 +82,18 @@ It is set in a mid-Cold War era (1960s–1970s) setting.
 | Chief Sergeant | 花軍長補 (Kagun-chō-ho) | Deputy Flower Army Leader |
 | Sergeant | 花軍曹 (Kagunsō) | Flower Sergeant |
 
-### Enlisted
+---
+
+## Enlisted
 
 | Rank | Japanese Title | Notes |
 |------|----------------|-------|
 | Corporal | 花伍長 (Kagochō) | Flower Corporal |
 | Lance Corporal | 副花伍長 (Fuku-kagochō) | Deputy Flower Corporal |
 
-### Soldiers
+---
+
+## Soldiers
 
 | Rank | Japanese Title | Notes |
 |------|----------------|-------|
