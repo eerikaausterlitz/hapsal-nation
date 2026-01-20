@@ -10,9 +10,6 @@ This site contains all canon information regarding:
 - Roleplay rules
 
 ---
-
-## Navigation
-
 ## Navigation
 
 - [Nation Overview](overview.md)
