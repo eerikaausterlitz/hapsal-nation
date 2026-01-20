@@ -20,6 +20,5 @@ This site contains all canon information regarding:
 - [[defence/gendarmerie|Hapsal State Gendarmerie]]
 - [[law/constitution|Constitution]]
 - [[law/laws|National Laws]]
----
 
 > This site is the official reference for all Hapsal roleplay.
