@@ -89,7 +89,7 @@ This shows the full civil–military hierarchy and rank system of the Hapsal Sel
 | Rank | Japanese Title | Notes |
 |------|----------------|-------|
 | Corporal | 花伍長 (Kagochō) | Flower Corporal |
-| Lance Corporal | 副花伍長 (Fuku-kagochō) | Deputy Flower Corporal |
+| Lance Corporal | 課長補 (Kagochō-ho) | Deputy Section Corporal |
 
 ---
 
