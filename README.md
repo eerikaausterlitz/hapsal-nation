@@ -13,12 +13,16 @@ This site contains all canon information regarding:
 
 ## Navigation
 
-- [[nation/overview|Nation Overview]]
-- [[nation/regions|Geographic Regions]]
-- [[history/timeline|History]]
-- [[defence/hsdf|Hapsal Self-Defence Forces]]
-- [[defence/gendarmerie|Hapsal State Gendarme]]
-- [[law/constitution|Constitution]]
-- [[law/laws|National Laws]]
+## Navigation
+
+- [Nation Overview](overview.md)
+- [Geographic Regions](regions.md)
+- [Nature](nature.md)
+- [Economy](economy.md)
+- [History](timeline.md)
+- [Hapsal Self-Defence Forces](hsdf.md)
+- [Hapsal State Gendarmerie](gendarmerie.md)
+- [Constitution](constitution.md)
+- [National Laws](laws.md)
 
 > This site is the official reference for all Hapsal roleplay.
