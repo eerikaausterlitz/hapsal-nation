@@ -77,38 +77,6 @@ It is set in a mid-Cold War era (1960s–1970s) setting.
 
 ---
 
-## Geographic Regions
-
-### Kōfushin
-Industrial, administrative, and political heart of the nation.  
-Cities: Kōfushin, Konkōdia, Shōrinzawa, Yugenhama, Kōryō, Takamine  
-
-### Minatogawa
-Maritime and trade-focused region with major ports.  
-Cities: Hikariminato, Ryūsetsu, Mikazuki  
-
-### Tsukihara
-Plains and agricultural region, key to food production.  
-Cities: Minatozawa, Kinseki, Hoshikawa, Shiomori  
-
-### Kasugai
-Urbanized region with cultural and commercial importance.  
-Cities: Senrin, Hakugan, Kasenrai  
-
-### Shiosaki
-Coastal and naval-oriented region, strong maritime identity.  
-City: Kageyama  
-
-### Amanohara
-Mountainous and remote region, known for defence and harsh terrain.  
-Cities: Aoshinobu, Tsurugi, Aojioisi  
-
-### Special Territories
-- **Konkōdia** – As the capital, it has a very high level of autonomy from the region.  
-- **Senrin & Hakugan** – Home to the Kimios, an advanced indigenous group with technological capabilities similar to the Hapsalian people.
-
----
-
 ## Links
 
 - **Main Roblox Group:** [State of Hapsal](https://www.roblox.com/communities/268137559/State-of-Hapsal#!/about)  
