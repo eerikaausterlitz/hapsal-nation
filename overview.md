@@ -1,7 +1,7 @@
 # State of Hapsal
 
-The **State of Hapsal** is a unitary parliamentary constitutional monarchy, inspired by Japanese culture and aesthetics.  
-It is set in a mid-Cold War era (1960s–1970s) setting.
+The **State of Hapsal** is a unitary parliamentary constitutional monarchy, heavily inspired by Japanese culture and aesthetics.  
+It is set in the year **1973**, during a mid-Cold War era of rapid industrialization, technological development, and urban expansion.
 
 ---
 
@@ -12,10 +12,9 @@ It is set in a mid-Cold War era (1960s–1970s) setting.
   - **Upper House:** House of Councillors  
   - **Lower House:** House of Representatives  
 - **Currency:** Sun Ikka  
-- **Population:** 4,865,456  
+- **Population:** 104,000,000  
 - **Official Language:** Hapsalian  
 - **Main Religion:** Sakura Tree
-
 ---
 
 ## Military & Security
